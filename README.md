@@ -1,16 +1,14 @@
-# frases_do_dia
+# Daily Phrases App
 
-Projeto 1 - Aplicativo Frases do Dia
+The following project was made in a Flutter course i made, and the main goals of this app were:
 
-## Getting Started
+* Learn how make your first app using Flutter;
+* Learn how to show phrases in your phone screen randomly using a list and math library;
 
-This project is a starting point for a Flutter application.
+Also, one of the app's goals was to learn how to create and customize layouts for the first time.
+## How the Code Works
 
-A few resources to get you started if this is your first Flutter project:
+When you inicialize the app, just click in the orange button, and a random number will be generated based on the list size, so, based on the result, a phrase of the list will be chosen and shown in your screen.
+## Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Salum28](https://github.com/Salum28)
